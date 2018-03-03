@@ -1,0 +1,15 @@
+{
+  "name": "maratonabot",
+  "version": "0.0.1",
+  "description": "Study how to build bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iago Cavalcante <iagoangelimc@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
